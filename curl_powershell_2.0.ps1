@@ -1,4 +1,4 @@
-# curl_powershell_3.0.ps1
+# curl_powershell_2.0.ps1
 # make web calls similar to cURL
 
 # set the username
